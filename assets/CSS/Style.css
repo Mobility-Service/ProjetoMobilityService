@@ -12,6 +12,7 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     padding: 15px;
+    
 }
 
 header{
@@ -112,3 +113,68 @@ input{
     border: none;
     font-size: 15px;
 }
+
+
+
+.rua img {
+    margin-left: -50px;
+}
+
+div .user {
+    margin-left: -10px;
+    text-align: end;
+
+}
+
+.caderno img {
+
+    margin-left: 15px;
+}
+
+.user img {
+
+    margin-right: 230px;
+
+}
+
+.loc img {
+    margin-left: -280px;
+
+
+}
+
+.situation img {
+
+    margin-left: -290px;
+}
+
+
+.logorod img {
+
+    width: 130px;
+    margin-top: 50px;
+    margin-left: -70px;
+}
+
+td {
+    border: 1px solid #FF6700;
+    height: 100px;
+
+
+}
+
+td img{
+    width: 50px;
+}
+
+
+.table{
+
+    background-color: #343434;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    opacity: 99%;
+}
+
+
